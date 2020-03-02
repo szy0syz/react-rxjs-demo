@@ -1,0 +1,22 @@
+{
+  "name": "react-rxjs-demo",
+  "version": "1.0.0",
+  "description": "react rxjs demo",
+  "main": "index.js",
+  "author": "szy0syz",
+  "license": "MIT",
+  "scripts": {
+    "watch": "parcel src/index.html"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ],
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.13.0",
+    "rxjs": "^6.5.4"
+  }
+}
